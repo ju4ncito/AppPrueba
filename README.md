@@ -1,1 +1,1 @@
-Tutorial de aplicacion de react native
+Tutorial de aplicacion de react nativea
